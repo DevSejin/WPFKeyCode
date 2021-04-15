@@ -1,0 +1,15 @@
+C:\Users\Alcyone\source\repos\WPFKeyCode\bin\Debug\WPFKeyCode.exe.config
+C:\Users\Alcyone\source\repos\WPFKeyCode\bin\Debug\WPFKeyCode.exe
+C:\Users\Alcyone\source\repos\WPFKeyCode\bin\Debug\WPFKeyCode.pdb
+C:\Users\Alcyone\source\repos\WPFKeyCode\obj\Debug\MainWindow.g.cs
+C:\Users\Alcyone\source\repos\WPFKeyCode\obj\Debug\App.g.cs
+C:\Users\Alcyone\source\repos\WPFKeyCode\obj\Debug\WPFKeyCode_MarkupCompile.cache
+C:\Users\Alcyone\source\repos\WPFKeyCode\obj\Debug\WPFKeyCode_MarkupCompile.lref
+C:\Users\Alcyone\source\repos\WPFKeyCode\obj\Debug\MainWindow.baml
+C:\Users\Alcyone\source\repos\WPFKeyCode\obj\Debug\WPFKeyCode.g.resources
+C:\Users\Alcyone\source\repos\WPFKeyCode\obj\Debug\WPFKeyCode.Properties.Resources.resources
+C:\Users\Alcyone\source\repos\WPFKeyCode\obj\Debug\WPFKeyCode.csproj.GenerateResource.cache
+C:\Users\Alcyone\source\repos\WPFKeyCode\obj\Debug\WPFKeyCode.exe
+C:\Users\Alcyone\source\repos\WPFKeyCode\obj\Debug\WPFKeyCode.pdb
+C:\Users\Alcyone\source\repos\WPFKeyCode\obj\Debug\App.baml
+C:\Users\Alcyone\source\repos\WPFKeyCode\obj\Debug\WPFKeyCode.csprojAssemblyReference.cache
