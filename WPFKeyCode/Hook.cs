@@ -44,7 +44,7 @@ namespace WPFKeyCode
         static IntPtr interceptMsg = (IntPtr)1;
         public static IntPtr MouseHookCallback(int code, int wParam, IntPtr lParam)
         {
-            if ((code >= 0) && (WinAPI.GetAsyncKeyState(WinAPI.VK_F24) < 0))
+            if ((code >= 0) && (WinAPI.GetAsyncKeyState(WinAPI.VK_F6) < 0))
             {
 
                 if (wParam == WinAPI.WM_MOUSEWHEEL)

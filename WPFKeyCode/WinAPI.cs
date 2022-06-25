@@ -29,6 +29,7 @@ namespace WPFKeyCode
         public const byte VK_ALT = 0x12;
         public const byte VK_RCTRL = 0xA3;
         public const byte VK_RSHIFT = 0xA1;
+        public const byte VK_F6 = 0x75;
         public const byte VK_F24 = 0x87;
 
         public delegate IntPtr HookProc(int nCode, int wParam, IntPtr lParam);
